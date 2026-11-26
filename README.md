@@ -293,7 +293,7 @@ This port was developed with substantial help from AI coding assistants, mainly 
 - **[Pyodide](https://pyodide.org/)** (MPL-2.0), used by the optional browser asset converter.
 - **Nintendo**, creators of *The Legend of Zelda: A Link to the Past*. All rights to the original game belong to them.
 - **AI assistance:** Claude by Anthropic (see [AI-assisted development](#ai-assisted-development)).
-- **PS2 port:** maintained by `<your-name>` ([@<gogeta456>](https://github.com/<gogeta456>)).
+- **PS2 port:** maintained by ([gogeta456<gogeta456>](https://github.com/gogeta456)).
 
 ## License
 
